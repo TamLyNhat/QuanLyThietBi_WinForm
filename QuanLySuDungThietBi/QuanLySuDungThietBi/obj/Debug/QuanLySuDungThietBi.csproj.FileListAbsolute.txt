@@ -1,0 +1,72 @@
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe.config
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.pdb
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmMain.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmBoMon.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmCanBoTheoBoMon.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmDangNhap.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmLoaiThietBi.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmPhong.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmRptDSCanBo.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmRptThietBi.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThanhLyThietBi.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiThanhLy.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiTheoLoai.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.Properties.Resources.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csproj.GenerateResource.Cache
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.exe
+D:\Dev Saved\Visual Studio\QLSDThietBi\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.pdb
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe.config
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.exe
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.pdb
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.pdb
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csprojResolveAssemblyReference.cache
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmMain.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmBoMon.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmCanBoTheoBoMon.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmDangNhap.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmLoaiThietBi.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmPhong.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmRptDSCanBo.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmRptThietBi.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThanhLyThietBi.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiThanhLy.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiTheoLoai.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.Properties.Resources.resources
+D:\Dev Saved\Visual Studio\QLSDThietBi\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csproj.GenerateResource.Cache
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe.config
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.pdb
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmMain.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmBoMon.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmCanBoTheoBoMon.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmDangNhap.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmLoaiThietBi.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmPhong.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThanhLyThietBi.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiThanhLy.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiTheoLoai.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.Properties.Resources.resources
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csproj.GenerateResource.cache
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csproj.CoreCompileInputs.cache
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.exe
+D:\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.pdb
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe.config
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.exe
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\bin\Debug\QuanLySuDungThietBi.pdb
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csprojAssemblyReference.cache
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmMain.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmBoMon.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmCanBoTheoBoMon.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmDangNhap.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmLoaiThietBi.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmPhong.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThanhLyThietBi.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiThanhLy.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.frmThietBiTheoLoai.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.Properties.Resources.resources
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csproj.GenerateResource.cache
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.csproj.CoreCompileInputs.cache
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.exe
+E:\D\CT277-HeQuanTriSQL\ChuDe12_Nhom16\QuanLySuDungThietBi\QuanLySuDungThietBi\obj\Debug\QuanLySuDungThietBi.pdb
